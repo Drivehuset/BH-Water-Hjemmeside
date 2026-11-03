@@ -1,0 +1,21 @@
+B&H WATER APS – LANCERINGSKONTROL, 3. NOVEMBER 2026
+
+GENNEMGÅET I VERSION 16
+- 14 HTML-sider: 7 danske og 7 engelske, inklusive privatlivspolitikker.
+- Kontrolleret interne links og billedfilstier: ingen manglende lokale filer fundet.
+- Ingen tredjeparts scripts, reklamepixels eller analysetjenester fundet i de lokale HTML-filer.
+- Privatlivspolitikkens DA/EN-sprogskift rettet.
+- Kontakt sker via info@bhwater.dk, som ejeren har testet for afsendelse og modtagelse.
+- CVR og firmaadresse er bekræftet af ejeren, men ikke uafhængigt verificeret i CVR-registeret.
+- Hjemmesiden er en præsentationsside, ikke en webshop.
+
+SKAL AFKLARES FØR ENDELIG JURIDISK GODKENDELSE
+1. Billeder: Kontroller oprindelse og brugsrettigheder til alle 12 billedfiler. Særligt produktetiketter, tredjepartsmærker og fotografier af genkendelige produkter. Der findes ikke en dokumenteret rettighedskæde i ZIP-filen.
+2. 'Smag med Vilje®': Registreringssymbol bør kun bruges, hvis varemærket er registreret for relevante varer/tjenester og territorier. Ellers afklar brug af ®.
+3. Hosting: Undersøg Simply.coms databehandleraftale, logning, opbevaringsperioder og evt. underdatabehandlere/overførsler. Tilpas privatlivspolitikken til faktiske forhold.
+4. E-mail: Fastlæg praktisk sletteprocedure for henvendelser og evt. dokumentationspligtige erhvervsmails.
+5. Efter upload: Kontroller HTTPS, www-omdirigering, faktiske cookies og netværkskald i browser, mobilvisning og DA/EN-navigation.
+6. Markedsføring: Gennemgå eventuelle alkoholbilleder/udsagn, så de ikke målrettes børn og unge; undgå ikke-dokumenterede produktegenskaber eller indtryk af eksisterende agenturer.
+7. Telefon: Vurder om et telefonnummer skal fremgå i tillæg til e-mail og fysisk adresse efter den konkrete erhvervsaktivitet.
+
+Dette er en teknisk og juridisk forberedende kontrol, ikke en advokatgodkendelse.

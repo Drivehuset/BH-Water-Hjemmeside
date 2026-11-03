@@ -1,0 +1,14 @@
+B&H Water ApS – dansk/engelsk hjemmeside
+
+Åbn index.html for dansk forside. Vælg EN i topmenuen for engelsk.
+
+Danske sider: *.html
+Engelske sider: en/*.html
+Fælles design: style.css
+Billeder: assets/
+
+Kontaktadresse: info@bhwater.dk
+
+VIGTIGT: Kontaktformularen er fortsat en prøveformular og sender ikke beskeder.
+Den skal sættes op sikkert og testes, inden siden offentliggøres.
+Der er endnu ikke foretaget endelig juridisk gennemgang af indhold og persondatabehandling.
