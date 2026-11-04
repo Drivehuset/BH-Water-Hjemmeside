@@ -81,4 +81,4 @@
 }
 
 /* Keep the complete homepage image visible at a more comfortable desktop size. */
-@media (min-width:901px){.new-home-hero{display:flex;justify-content:center;background:#fbfaf7}.new-home-hero>img{width:min(100%,1280px)!important;height:auto!important}}
+@media (min-width:901px){.new-home-hero{display:flex;justify-content:center;background:#fbfaf7}.new-home-hero>img{width:min(100%,1050px)!important;height:auto!important}}
