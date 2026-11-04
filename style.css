@@ -63,3 +63,19 @@
 
 /* Bilingual language switch */
 .nav{display:flex;align-items:center;gap:14px}.nav nav{flex:1}.language-switch{display:flex;align-items:center;gap:6px;white-space:nowrap;font-size:13px;font-weight:700;letter-spacing:.06em;color:#53715a}.language-switch a{color:#31583b;text-decoration:none;opacity:.65}.language-switch a[aria-current="page"]{opacity:1;text-decoration:underline;text-underline-offset:4px}.language-switch a:hover{opacity:1}.official-email{margin:14px auto;max-width:1180px;padding:0 24px}.official-email a{color:#175b36}@media(max-width:850px){.nav{flex-wrap:wrap}.language-switch{margin-left:auto}.nav nav{order:3;flex-basis:100%}}
+
+/* Centered header: company left, menu center, Smag med Vilje after Contact. */
+@media (min-width:851px){
+ .nav{max-width:1700px;justify-content:center;gap:clamp(14px,1.6vw,30px);padding-left:24px;padding-right:24px}
+ .nav nav{flex:0 1 auto;justify-content:center;gap:clamp(12px,1.35vw,25px)}
+ .nav .brand{flex:0 0 auto}
+ .nav .brand-name{font-size:clamp(19px,1.6vw,29px)}
+ .nav .header-script{flex:0 0 auto;font-size:clamp(20px,1.7vw,31px)}
+ .nav .language-switch{flex:0 0 auto;margin-left:clamp(8px,1.5vw,28px)}
+}
+@media (max-width:850px){
+ .nav{justify-content:center}
+ .nav .header-script{order:2}
+ .nav .language-switch{order:2;margin-left:0}
+ .nav nav{justify-content:center}
+}
