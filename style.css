@@ -82,3 +82,6 @@
 
 /* Keep the complete homepage image visible at a more comfortable desktop size. */
 @media (min-width:901px){.new-home-hero{display:flex;justify-content:center;background:#fbfaf7}.new-home-hero>img{width:min(100%,1050px)!important;height:auto!important}}
+
+/* Match all subpage content widths to the 1050px homepage presentation. */
+@media (min-width:901px){body>main:not(:has(.new-home-hero)){width:100%;max-width:1050px;margin-left:auto;margin-right:auto}body>main:not(:has(.new-home-hero)) .wrap{max-width:100%;box-sizing:border-box}}
